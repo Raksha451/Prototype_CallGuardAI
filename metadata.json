@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CallGuard AI",
+  "description": "An AI-powered prototype for analyzing call history to detect potential fraud and suspicious communication patterns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
