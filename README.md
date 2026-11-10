@@ -42,11 +42,11 @@ This prototype demonstrates the potential of combining artificial intelligence w
 
 ## ✨ Key Features
 
-- 🛡️ **Call Protection Concept** — Focuses on identifying potentially suspicious calls.
-- 🤖 **AI-Assisted Analysis** — Explores the application of AI to call-risk assessment.
-- 🔍 **Scam Awareness** — Helps users understand potential warning signs associated with fraudulent communication.
-- ⚠️ **Risk Identification** — Designed to support the identification of suspicious patterns.
-- 💡 **Prototype Development** — Demonstrates a potential approach to AI-assisted communication security.
+- 🛡️ **Call Protection Concept** - Focuses on identifying potentially suspicious calls.
+- 🤖 **AI-Assisted Analysis** - Explores the application of AI to call-risk assessment.
+- 🔍 **Scam Awareness** - Helps users understand potential warning signs associated with fraudulent communication.
+- ⚠️ **Risk Identification** - Designed to support the identification of suspicious patterns.
+- 💡 **Prototype Development** - Demonstrates a potential approach to AI-assisted communication security.
 
 *Note: The features above describe the project's intended direction. Update them to reflect the capabilities actually implemented in the prototype.*
 
@@ -64,11 +64,11 @@ The exact technologies depend on the project's implementation. Document the tool
 
 The intended workflow for an AI-assisted call protection system may include:
 
-1. **Input Collection** — Receive the call-related data supported by the prototype.
-2. **Data Processing** — Prepare the input for analysis.
-3. **AI-Based Analysis** — Analyze relevant patterns using the implemented model or logic.
-4. **Risk Assessment** — Determine whether the analyzed input contains suspicious indicators, if supported.
-5. **User Feedback** — Present the analysis or relevant warnings through the application interface.
+1. **Input Collection** - Receive the call-related data supported by the prototype.
+2. **Data Processing** - Prepare the input for analysis.
+3. **AI-Based Analysis** - Analyze relevant patterns using the implemented model or logic.
+4. **Risk Assessment** - Determine whether the analyzed input contains suspicious indicators, if supported.
+5. **User Feedback** - Present the analysis or relevant warnings through the application interface.
 
 The actual workflow depends on the components implemented in this repository.
 
