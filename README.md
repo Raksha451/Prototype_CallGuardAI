@@ -52,6 +52,8 @@ This prototype demonstrates the potential of combining artificial intelligence w
 <img width="1902" height="844" alt="Screenshot 2026-02-04 183717" src="https://github.com/user-attachments/assets/e9ceeca7-c2d8-4ab9-b5ce-bd7828f88cde" />
 
 
+
+
 <img width="1709" height="848" alt="Screenshot (412)(1)" src="https://github.com/user-attachments/assets/af34e2aa-e076-44f2-bdc6-2ffb2a0b81b2" />
 
 
